@@ -35,10 +35,8 @@ Deployment on https://share.streamlit.io/
 
 ## Contributors <a name = "Contributors"></a>
 
-- [Faiq Ali](https://github.com/faiqali1/)
-- [Linzan](https://github.com/LinzanLiu)
-- [Samer](https://github.com/SamerAbukhader)
-- [Makram](https://github.com/makram7x)
-- [Divka](https://github.com/Relviel)
+- [Farhan Kabir](https://github.com/farhankabir133/)
+- [Abu Sayeed](https://github.com/LinzanLiu)
+
 
 
